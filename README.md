@@ -168,9 +168,6 @@ Designed and developed a sophisticated **admin and employee management system**:
 <img src="https://github-readme-stats.vercel.app/api?username=Creator101-commits&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Creator101-commits&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
 
-<!-- GitHub Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Creator101-commits&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
-
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Creator101-commits&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="95%"/>
 
