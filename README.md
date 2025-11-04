@@ -7,7 +7,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=High+School+Student+%7C+Leander%2C+TX;Full-Stack+Developer+%7C+AI+Enthusiast;Building+AI-Powered+Study+Solutions;React+%E2%9C%A6+Node.js+%E2%9C%A6+PostgreSQL+%E2%9C%A6+Python" alt="Typing SVG" /></a>
 
 <!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=Sreeharsha-Kannegundla&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Creator101-commits&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
 
 <!-- Wave Animation -->
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Wave Animation"/>
@@ -30,8 +30,6 @@ I'm currently balancing **rigorous coursework** with **hands-on full-stack devel
 
 <div align="center">
 
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/api/?username=Sreeharsha-Kannegundla&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
 
 </div>
 
@@ -92,9 +90,6 @@ Designed and developed a sophisticated **admin and employee management system**:
 
 ## Experience & Skills Journey
 
-<!-- Coding Stats -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Sreeharsha&theme=radical&hide_border=true&layout=compact" alt="WakaTime Stats" />
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
@@ -145,13 +140,13 @@ Designed and developed a sophisticated **admin and employee management system**:
 
 <!-- GitHub Contribution Snake Animation -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sreeharsha-Kannegundla/Sreeharsha-Kannegundla/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sreeharsha-Kannegundla/Sreeharsha-Kannegundla/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sreeharsha-Kannegundla/Sreeharsha-Kannegundla/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Creator101-commits/Creator101-commits/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Creator101-commits/Creator101-commits/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Creator101-commits/Creator101-commits/output/github-contribution-grid-snake.svg">
 </picture>
 
 <!-- Profile Summary Cards -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sreeharsha-Kannegundla&theme=radical" alt="Profile Summary" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Creator101-commits&theme=radical" alt="Profile Summary" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -228,17 +223,17 @@ Designed and developed a sophisticated **admin and employee management system**:
 ## GitHub Statistics
 
 <!-- GitHub Stats Card with Animation -->
-<img src="https://github-readme-stats.vercel.app/api?username=Sreeharsha-Kannegundla&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreeharsha-Kannegundla&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Creator101-commits&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Creator101-commits&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
 
 <!-- GitHub Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sreeharsha-Kannegundla&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Creator101-commits&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sreeharsha-Kannegundla&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Creator101-commits&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="95%"/>
 
 <!-- 3D Contribution Calendar -->
-<img src="https://raw.githubusercontent.com/Sreeharsha-Kannegundla/Sreeharsha-Kannegundla/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Creator101-commits/Creator101-commits/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
@@ -270,7 +265,7 @@ Designed and developed a sophisticated **admin and employee management system**:
 <a href="https://www.linkedin.com/in/sreeharsha-kannegundla/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://github.com/Sreeharsha-Kannegundla">
+<a href="https://github.com/Creator101-commits">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://twitter.com/yourusername">
@@ -280,7 +275,7 @@ Designed and developed a sophisticated **admin and employee management system**:
 
 <!-- Visitor Counter with Cool Design -->
 <p align="center">
-<img src="https://profile-counter.glitch.me/Sreeharsha-Kannegundla/count.svg" alt="Visitor Count"/>
+<img src="https://profile-counter.glitch.me/Creator101-commits/count.svg" alt="Visitor Count"/>
 </p>
 
 </div>
@@ -319,6 +314,6 @@ const sreeharsha = {
 
 *Last updated: November 2025 | Continuously improving and learning*
 
-[![Made with love by Sreeharsha](https://img.shields.io/badge/Made%20with-love-red?style=for-the-badge)](https://github.com/Sreeharsha-Kannegundla)
+[![Made with love by Sreeharsha](https://img.shields.io/badge/Made%20with-love-red?style=for-the-badge)](https://github.com/Creator101-commits)
 
 </div>
