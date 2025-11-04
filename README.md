@@ -264,12 +264,6 @@ Designed and developed a sophisticated **admin and employee management system**:
 
 <div align="center">
 
-### Fun Fact
-
-<img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Jokes Card" />
-
----
-
 **Let's build something amazing together!**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
