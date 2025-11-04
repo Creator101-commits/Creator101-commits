@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sreeharsha%20Kannegundla&fontSize=42&fontAlignY=30&animation=twinkling&fontColor=fff" />
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=High+School+Student+%7C+Leander%2C+TX;Full-Stack+Developer+%7C+AI+Enthusiast;Building+AI-Powered+Study+Solutions;React+%E2%9C%A6+Node.js+%E2%9C%A6+PostgreSQL+%E2%9C%A6+Python" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=High+School+Student+%7C+TX;" alt="Typing SVG" /></a>
 
 <!-- Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=Creator101-commits&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
@@ -138,12 +138,6 @@ Designed and developed a sophisticated **admin and employee management system**:
 
 ### Coding Activity & Contribution Insights
 
-<!-- GitHub Contribution Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Creator101-commits/Creator101-commits/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Creator101-commits/Creator101-commits/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Creator101-commits/Creator101-commits/output/github-contribution-grid-snake.svg">
-</picture>
 
 <!-- Profile Summary Cards -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Creator101-commits&theme=radical" alt="Profile Summary" />
@@ -158,14 +152,6 @@ Designed and developed a sophisticated **admin and employee management system**:
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## Technical Arsenal
-
-<!-- Animated Tech Banner -->
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -232,8 +218,6 @@ Designed and developed a sophisticated **admin and employee management system**:
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Creator101-commits&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="95%"/>
 
-<!-- 3D Contribution Calendar -->
-<img src="https://raw.githubusercontent.com/Creator101-commits/Creator101-commits/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
@@ -273,10 +257,6 @@ Designed and developed a sophisticated **admin and employee management system**:
 </a>
 </p>
 
-<!-- Visitor Counter with Cool Design -->
-<p align="center">
-<img src="https://profile-counter.glitch.me/Creator101-commits/count.svg" alt="Visitor Count"/>
-</p>
 
 </div>
 
@@ -287,18 +267,6 @@ Designed and developed a sophisticated **admin and employee management system**:
 ### Fun Fact
 
 <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Jokes Card" />
-
----
-
-### Current Focus
-
-```javascript
-const sreeharsha = {
-    location: "TX, USA",
-    education: "High School Student",
-    currentProject: "Nova App",
-};
-```
 
 ---
 
@@ -313,7 +281,5 @@ const sreeharsha = {
 <div align="center">
 
 *Last updated: November 2025 | Continuously improving and learning*
-
-[![Made with love by Sreeharsha](https://img.shields.io/badge/Made%20with-love-red?style=for-the-badge)](https://github.com/Creator101-commits)
 
 </div>
