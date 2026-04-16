@@ -10,8 +10,6 @@ Sophomore at Rouse High School in Leander, Texas. Interested in ML and ECE.
 
 ## Technical Skills
 
-<div align="center">
-
 ### **Languages**
 
 <p>
@@ -46,15 +44,13 @@ Sophomore at Rouse High School in Leander, Texas. Interested in ML and ECE.
 <img src="https://img.shields.io/badge/MLflow-000000?style=for-the-badge&logo=mlflow&logoColor=white" />
 </p>
 
-</div>
-
 ---
 
 ## Let's Connect & Collaborate
 
 ### Find Me On
 
-<p align="center">
+<p>
 <a href="mailto:sreeharsha.kannegundla@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
@@ -68,8 +64,6 @@ Sophomore at Rouse High School in Leander, Texas. Interested in ML and ECE.
 <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
 </a>
 </p>
-
-</div>
 
 ---
 
