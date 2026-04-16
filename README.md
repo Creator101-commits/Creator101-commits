@@ -1,3 +1,4 @@
+
 # Sreeharsha Kannegundla
 
 High School Student | TX
@@ -13,36 +14,36 @@ High school sophomore at Rouse High School (Leander, TX) interested in computer 
 ### **Languages**
 
 <p>
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/R-000000?style=for-the-badge&logo=r&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=black" />
+<img src="https://img.shields.io/badge/C%2B%2B-FFFFFF?style=for-the-badge&logo=c%2B%2B&logoColor=black" />
+<img src="https://img.shields.io/badge/R-FFFFFF?style=for-the-badge&logo=r&logoColor=black" />
+<img src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=java&logoColor=black" />
+<img src="https://img.shields.io/badge/SQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=black" />
 </p>
 
 ### **ML/DL Frameworks**
 
 <p>
-<img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit_Learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/XGBoost-000000?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-FFFFFF?style=for-the-badge&logo=pytorch&logoColor=black" />
+<img src="https://img.shields.io/badge/TensorFlow-FFFFFF?style=for-the-badge&logo=tensorflow&logoColor=black" />
+<img src="https://img.shields.io/badge/Scikit_Learn-FFFFFF?style=for-the-badge&logo=scikit-learn&logoColor=black" />
+<img src="https://img.shields.io/badge/XGBoost-FFFFFF?style=for-the-badge&logoColor=black" />
 </p>
 
 ### **Data Handling & Features**
 
 <p>
-<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=black" />
+<img src="https://img.shields.io/badge/MongoDB-FFFFFF?style=for-the-badge&logo=mongodb&logoColor=black" />
+<img src="https://img.shields.io/badge/Supabase-FFFFFF?style=for-the-badge&logo=supabase&logoColor=black" />
 </p>
 
 ### **Deployment & MLOps**
 
 <p>
-<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/MLflow-000000?style=for-the-badge&logo=mlflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-FFFFFF?style=for-the-badge&logo=docker&logoColor=black" />
+<img src="https://img.shields.io/badge/Kubernetes-FFFFFF?style=for-the-badge&logo=kubernetes&logoColor=black" />
+<img src="https://img.shields.io/badge/MLflow-FFFFFF?style=for-the-badge&logo=mlflow&logoColor=black" />
 </p>
 
 ---
