@@ -11,14 +11,14 @@ High school sophomore at Rouse High School (Leander, TX) interested in computer 
 
 ## Featured Projects
 
-### **Project 1: NLP Insight Engine**
+### NLP Insight Engine**
 
 **Sentence Transformers · UMAP · HDBSCAN · Streamlit**
 
 - Processed 500K+ Amazon reviews using sentence-transformers (all-MiniLM-L6-v2) to generate semantic embeddings capturing contextual meaning beyond keyword matching
 - Applied UMAP dimensionality reduction and HDBSCAN clustering to surface recurring customer pain points without predefined categories
 
-### **Project 2: A/B Testing & Uplift Modeling**
+### A/B Testing & Uplift Modeling**
 
 **XGBoost · scikit-uplift · statsmodels · Criteo Dataset (14M users)**
 
