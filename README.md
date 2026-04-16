@@ -83,5 +83,3 @@ High school sophomore at Rouse High School (Leander, TX) interested in computer 
 </p>
 
 ---
-
-**Let's build something amazing together!**
