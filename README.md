@@ -6,7 +6,7 @@ High School Student | TX
 
 ## About Me
 
-Sophomore at Rouse High School in Leander, Texas. Interested in ML and ECE. 
+High school sophomore at Rouse High School (Leander, TX) interested in computer science, machine learning, robotics and competitive programming. Exploring AI/ML research, AI engineering and trying to actively build robots and AI pipelines. Top 7% of my class.
 
 ## Technical Skills
 
@@ -14,10 +14,10 @@ Sophomore at Rouse High School in Leander, Texas. Interested in ML and ECE.
 
 <p>
 <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/R-000000?style=for-the-badge&logo=r&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ### **ML/DL Frameworks**
@@ -34,6 +34,7 @@ Sophomore at Rouse High School in Leander, Texas. Interested in ML and ECE.
 <p>
 <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=white" />
 </p>
 
 ### **Deployment & MLOps**
