@@ -1,4 +1,5 @@
 
+
 # Sreeharsha Kannegundla
 
 High School Student | TX
@@ -9,14 +10,7 @@ High School Student | TX
 
 High school sophomore at Rouse High School (Leander, TX) interested in computer science, machine learning, robotics and competitive programming. Exploring AI/ML research, AI engineering and trying to actively build robots and AI pipelines. Top 7% of my class.
 
-## Featured Projects
-
-### NLP Insight Engine
-
-**Sentence Transformers · UMAP · HDBSCAN · Streamlit**
-
-- Processed 500K+ Amazon reviews using sentence-transformers (all-MiniLM-L6-v2) to generate semantic embeddings capturing contextual meaning beyond keyword matching
-- Applied UMAP dimensionality reduction and HDBSCAN clustering to surface recurring customer pain points without predefined categories
+## Featured Project
 
 ### A/B Testing & Uplift Modeling
 
@@ -25,6 +19,20 @@ High school sophomore at Rouse High School (Leander, TX) interested in computer 
 - Conducted power analysis using statsmodels to determine minimum sample size for detecting 2% lift at 80% power and 95% significance before running any tests
 - Analyzed treatment vs. control conversion rates across 14M users; computed p-values, confidence intervals, and Cohen's d for practical significance
 - Demonstrated that targeting the top 30% of users by predicted uplift captures 70% of total conversions at 30% of campaign cost, directly quantifying ROI of personalized targeting
+
+## Python Skills
+
+- Built end-to-end machine learning systems in Python, covering data preprocessing, feature engineering, model training, tuning, and evaluation
+- Trained diverse model families including tree-based models (random forest, gradient boosting), kernel methods (SVM), neural networks, and transformer-based models
+- Performed systematic hyperparameter optimization using grid search, random search, and cross-validation
+- Applied ensembling techniques to improve performance and stability across models
+- Developed models on structured, text, and image datasets, adapting pipelines to each data modality
+- Implemented class imbalance handling (e.g., resampling, class weighting) to improve minority class performance
+- Applied regularization and other techniques to reduce overfitting and improve generalization
+- Built data-efficient training workflows using active learning, coreset selection, and subset selection
+- Conducted model interpretability analysis using tools such as SHAP and LIME to explain predictions
+- Evaluated model robustness under distribution shift and tested performance on out-of-distribution data
+- Performed targeted error analysis to identify failure patterns and iteratively improve model performance
 
 ---
 
