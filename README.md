@@ -43,9 +43,10 @@ High school sophomore at Rouse High School (Leander, TX) interested in computer 
 <p>
 <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/R-000000?style=for-the-badge&logo=r&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MATLAB-000000?style=for-the-badge&logo=matlab&logoColor=white" />
 </p>
 
 ### **ML/DL Frameworks**
