@@ -1,5 +1,3 @@
-
-
 # Sreeharsha Kannegundla
 
 High School Student | TX
@@ -22,17 +20,18 @@ High school sophomore at Rouse High School (Leander, TX) interested in computer 
 
 ## Python Skills
 
-- Built end-to-end machine learning systems in Python, covering data preprocessing, feature engineering, model training, tuning, and evaluation
-- Trained diverse model families including tree-based models (random forest, gradient boosting), kernel methods (SVM), neural networks, and transformer-based models
-- Performed systematic hyperparameter optimization using grid search, random search, and cross-validation
-- Applied ensembling techniques to improve performance and stability across models
-- Developed models on structured, text, and image datasets, adapting pipelines to each data modality
-- Implemented class imbalance handling (e.g., resampling, class weighting) to improve minority class performance
-- Applied regularization and other techniques to reduce overfitting and improve generalization
-- Built data-efficient training workflows using active learning, coreset selection, and subset selection
-- Conducted model interpretability analysis using tools such as SHAP and LIME to explain predictions
-- Evaluated model robustness under distribution shift and tested performance on out-of-distribution data
-- Performed targeted error analysis to identify failure patterns and iteratively improve model performance
+- Built end-to-end ML pipelines in Python across structured, text, and image datasets — covering preprocessing, feature engineering, training, tuning, ensembling, and evaluation for tree-based models, SVMs, neural networks, and transformers
+- Handled real-world data challenges including class imbalance, overfitting, and data efficiency using techniques like resampling, regularization, active learning, and coreset selection
+- Evaluated and interpreted models rigorously using SHAP, LIME, cross-validation, distribution shift testing, and targeted error analysis to explain predictions and drive iterative improvement
+
+### Language Breakdown
+
+- **Python:** End-to-end ML pipelines, uplift modeling, A/B testing analysis, and AI research
+- **C++:** Embedded systems programming for Arduino-based robotics projects and Competitive programming (USACO)
+- **Java:** Small web projects, mobile app development (used Java since I don't know Javasript), algorithmic problem-solving and school CS coursework 
+- **MATLAB:** Robotics engineering, image processing, and satellite/geospatial data analysis
+- **SQL:** Backend database queries in Python and Java projects using PostgreSQL
+- **R:** Statistical analysis, exploratory data analysis, and hypothesis testing workflows
 
 ---
 
