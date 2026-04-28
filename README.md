@@ -18,12 +18,6 @@ High school sophomore at Rouse High School (Leander, TX) interested in computer 
 - Analyzed treatment vs. control conversion rates across 14M users; computed p-values, confidence intervals, and Cohen's d for practical significance
 - Demonstrated that targeting the top 30% of users by predicted uplift captures 70% of total conversions at 30% of campaign cost, directly quantifying ROI of personalized targeting
 
-## Python Skills
-
-- Built end-to-end ML pipelines in Python across structured, text, and image datasets — covering preprocessing, feature engineering, training, tuning, ensembling, and evaluation for tree-based models, SVMs, neural networks, and transformers
-- Handled real-world data challenges including class imbalance, overfitting, and data efficiency using techniques like resampling, regularization, active learning, and coreset selection
-- Evaluated and interpreted models rigorously using SHAP, LIME, cross-validation, distribution shift testing, and targeted error analysis to explain predictions and drive iterative improvement
-
 ### Language Breakdown
 
 - **Python:** End-to-end ML pipelines, uplift modeling, A/B testing analysis, and AI research
