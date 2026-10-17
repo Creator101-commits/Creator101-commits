@@ -6,7 +6,7 @@ High School Student | TX
 
 ## About Me
 
-High school sophomore at Rouse High School (Leander, TX) interested in computer science, machine learning, robotics and competitive programming. Exploring AI/ML research, AI engineering and trying to actively build robots and AI pipelines. Top 7% of my class.
+High school sophomore at Rouse High School (Leander, TX) interested in computer science, machine learning, robotics and competitive programming. 
 
 ## Featured Project
 
@@ -21,7 +21,7 @@ High school sophomore at Rouse High School (Leander, TX) interested in computer 
 ### Language Breakdown
 
 - **Python:** End-to-end ML pipelines, uplift modeling, A/B testing analysis, and AI research
-- **C++:** Embedded systems programming for Arduino-based robotics projects and Competitive programming (USACO)
+- **C++:** Embedded systems programming for Arduino-based robotics projects
 - **Java:** Small web projects, mobile app development (used Java since I don't know Javasript), algorithmic problem-solving and school CS coursework 
 - **MATLAB:** Robotics engineering, image processing, and satellite/geospatial data analysis
 - **SQL:** Backend database queries in Python and Java projects using PostgreSQL
