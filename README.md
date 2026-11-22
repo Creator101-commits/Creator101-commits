@@ -1,4 +1,4 @@
-# hey, i'm sreeharsha. 👋
+# hey, i'm sreeharsha
 
 High school junior interested in machine learning, robotics, and software engineering.
 
