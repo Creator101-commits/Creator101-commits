@@ -5,10 +5,10 @@ high school junior interested in machine learning, robotics, and software engine
 
 **featured work**
 
-- **nist rag reliability benchmark**  
-evaluated citation-grounded qa across **46** questions, achieving **86.9%** required-point recall, **100%** citation validity, and a **0%** false-answer rate.  
+- **receipt-to-json fine-tuning**  
+fine-tuned qwen2.5-3b with qlora on **100** held-out receipts, lifting field f1 from **0.41** few-shot to **0.90** and schema validity from **62%** to **97%**.  
 
-- **research paper semantic search**  
-built a scientific literature retrieval system spanning **5,183** documents and **1,109** claims, achieving **0.7547 ndcg@1**.
+- **taxi eta with drift monitoring**  
+simulated deployment over **30** months of nyc taxi data including the covid shock, where drift-triggered retraining cut error by **0.41** minutes per trip using **22** retrains instead of **30**.
 
 [linkedin](https://www.linkedin.com/in/sreeharsha-kannegundla/) · [email](mailto:sreeharsha.kannegundla@gmail.com)
